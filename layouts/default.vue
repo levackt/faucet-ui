@@ -5,7 +5,7 @@
         <div class="statusheaderleft">
           <img class="mainimglogo" src="../assets/img/secret-logo.png" alt="logo"/>
         </div>
-        <h1 class="testnetheader">Testnet Faucet</h1>
+        <h1 class="testnetheader">Secret Network Testnet Faucet</h1>
         <div class="statusheader">
           <div class="desktopstatusdiv">
             <v-select
