@@ -149,8 +149,8 @@ export default {
       title: 'SCRT Testnet faucet',
       faucet_status: '',
       faucet_status_color: 'green',
-      items: ['pulsar-2'],
-      selected: 'pulsar-2',
+      items: ['pulsar-3'],
+      selected: 'pulsar-3',
       dialog: false
     }
   },
